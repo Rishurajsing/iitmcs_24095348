@@ -1,5 +1,5 @@
 # iitmcs_24095348
-Tic Tac Toe game (masai iitm project)
+#Tic Tac Toe game (masai iitm project)
 import numpy as np
 import random
 from time import sleep
